@@ -1,0 +1,823 @@
+,Skrot,Sektor
+0,06N,GPW: Finanse inne
+1,OCTAVA,GPW: Deweloperzy
+2,11-BIT-STUDIOS,GPW: Informatyka
+3,ATAL,GPW: Deweloperzy
+4,4FUN-MEDIA,GPW: Media
+5,AAT,GPW: Deweloperzy
+6,ABADONRE,GPW: Budownictwo
+7,ABC-DATA,GPW: Handel hurtowy
+8,ABE,GPW: Handel hurtowy
+9,ABM-SOLID,GPW: Budownictwo
+10,ASSECO-BUSINESS-SOLUTIONS,GPW: Informatyka
+11,ACG,GPW: Przemysł motoryzacyjny
+12,ASSECO-POLAND,GPW: Informatyka
+13,ACTION,GPW: Handel hurtowy
+14,ADIUVO-INVESTMENT,GPW: Przemysł farmaceutyczny
+15,AGORA,GPW: Media
+16,AGROTON,GPW: Przemysł spożywczy
+17,ALCHEMIA,GPW: Przemysł metalowy
+18,ALTUS,GPW: Rynek kapitałowy
+19,ALL,GPW: Informatyka
+20,ALIOR-BANK,GPW: Banki
+21,AMBRA,GPW: Przemysł spożywczy
+22,AMICA,GPW: Przemysł elektromaszynowy
+23,ALUMETAL,GPW: Przemysł metalowy
+24,APS-ENERGIA,GPW: Przemysł elektromaszynowy
+25,AMPLI,GPW: Handel hurtowy
+26,APLISENS,GPW: Przemysł elektromaszynowy
+27,APR,GPW: Przemysł motoryzacyjny
+28,APATOR,GPW: Przemysł elektromaszynowy
+29,ARCUS,GPW: Informatyka
+30,ARH,GPW: Deweloperzy
+31,ARTERIA,GPW: Usługi inne
+32,ARTIFEX,GPW: Informatyka
+33,ASBISC,GPW: Handel hurtowy
+34,ASSECO-SOUTH-EASTERN-EUROPE,GPW: Informatyka
+35,ASM-GROUP,GPW: Media
+36,ASTARTA,GPW: Przemysł spożywczy
+37,ARCTIC-PAPER,GPW: Usługi inne
+38,ATENDE,GPW: Informatyka
+39,ATM-GRUPA,GPW: Media
+40,ATLAS-ESTATES,GPW: Deweloperzy
+41,ATM,GPW: Telekomunikacja
+42,ATLANTA-POLAND,GPW: Handel hurtowy
+43,ATREM,GPW: Usługi inne
+44,ATS,GPW: Finanse inne
+45,ATT,GPW: Przemysł chemiczny
+46,AUGAGROUP,GPW: Przemysł spożywczy
+47,AWBUD,GPW: Budownictwo
+48,AIRWAY-MEDIX,GPW: Przemysł farmaceutyczny
+49,BAHOLDING,GPW: Usługi inne
+50,BALTONA,GPW: Handel detaliczny
+51,BBI-DEVELOPMENT,GPW: Deweloperzy
+52,BETACOM,GPW: Informatyka
+53,BUDOPOL-WROCLAW,GPW: Budownictwo
+54,BUDIMEX,GPW: Budownictwo
+55,ELEKTROCIEPLOWNIA-BEDZIN,GPW: Energetyka
+56,BENEFIT-SYSTEMS,GPW: Usługi inne
+57,BGZ-BNP-PARIBAS,GPW: Banki
+58,BANK-HANDLOWY,GPW: Banki
+59,BIK,GPW: Deweloperzy
+60,BIOTON,GPW: Przemysł farmaceutyczny
+61,BKM,GPW: Usługi inne
+62,BUMECH,GPW: Przemysł elektromaszynowy
+63,BIOMED-LUBLIN,GPW: Przemysł farmaceutyczny
+64,BANK-OCHRONY-SRODOWISKA,GPW: Banki
+65,BOWIM,GPW: Handel hurtowy
+66,BRASTER,GPW: Usługi inne
+67,BERLING,GPW: Handel hurtowy
+68,BORYSZEW,GPW: Przemysł metalowy
+69,BSC-DRUKARNIA-OPAKOWAN,GPW: Usługi inne
+70,BEST,GPW: Finanse inne
+71,BUWOG,GPW: Deweloperzy
+72,INTER-CARS,GPW: Przemysł motoryzacyjny
+73,CCC,GPW: Handel detaliczny
+74,CLEAN-CARBON-ENERGY,GPW: Handel detaliczny
+75,CDL,GPW: Handel detaliczny
+76,CD-PROJEKT,GPW: Informatyka
+77,CEZ,GPW: Energetyka
+78,CFI-HOLDING,GPW: Budownictwo
+79,CHEMOSERVIS-DWORY,GPW: Usługi inne
+80,CIECH,GPW: Przemysł chemiczny
+81,CI-GAMES,GPW: Informatyka
+82,COAL-ENERGY,GPW: Przemysł surowcowy
+83,CLNPHARMA,GPW: Przemysł farmaceutyczny
+84,COMP,GPW: Informatyka
+85,COMARCH,GPW: Informatyka
+86,CERAMIKA-NOWA-GALA,GPW: Przemysł materiałów budowlanych
+87,CENTRUM-NOWOCZESNYCH-TECHNOLOGII,GPW: Budownictwo
+88,COGNOR,GPW: Przemysł metalowy
+89,CAPITAL-PARTNERS,GPW: Finanse inne
+90,CPD,GPW: Deweloperzy
+91,CAPITAL-PARK,GPW: Deweloperzy
+92,COMPERIA-PL,GPW: Media
+93,CYFROWY-POLSAT,GPW: Telekomunikacja
+94,CORMAY,GPW: Przemysł farmaceutyczny
+95,CALATRAVA-CAPITAL,GPW: Finanse inne
+96,CUBE-ITG,GPW: Informatyka
+97,CTS,GPW: Usługi inne
+98,CZERWONA-TOREBKA,GPW: Deweloperzy
+99,DAT,GPW: Informatyka
+100,DEBICA,GPW: Przemysł motoryzacyjny
+101,DECORA,GPW: Przemysł materiałów budowlanych
+102,DEKPOL,GPW: Budownictwo
+103,DELKO,GPW: Handel hurtowy
+104,DGA,GPW: Usługi inne
+105,DNP,GPW: Handel detaliczny
+106,DOM-DEVELOPMENT,GPW: Deweloperzy
+107,DROZAPOL-PROFIL,GPW: Handel hurtowy
+108,DREWEX,GPW: Przemysł drzewny
+109,DROP,GPW: Usługi inne
+110,ESOTIQ-HENDERSON,GPW: Handel detaliczny
+111,EAT,GPW: Hotele i restauracje
+112,ECHO-INVESTMENT,GPW: Deweloperzy
+113,ED-INVEST,GPW: Deweloperzy
+114,EKO-EXPORT,GPW: Przemysł inne
+115,EFEKT,GPW: Usługi inne
+116,ERGIS-EUROFILMS,GPW: Przemysł tworzyw sztucznych
+117,EUROHOLD-BULGARIA,GPW: Finanse inne
+118,ELKOP,GPW: Deweloperzy
+119,ELEKTROBUDOWA,GPW: Budownictwo
+120,ELEKTROTIM,GPW: Budownictwo
+121,ELZAB,GPW: Informatyka
+122,EMC,GPW: Usługi inne
+123,ELEMENTAL-HOLDING,GPW: Usługi inne
+124,ENEA,GPW: Energetyka
+125,ENEL-MED,GPW: Usługi inne
+126,ENERGA,GPW: Energetyka
+127,ENERGOINSTAL,GPW: Przemysł elektromaszynowy
+128,ENERGOAPARATURA,GPW: Budownictwo
+129,ENT,GPW: Usługi inne
+130,ERBUD,GPW: Budownictwo
+131,ERG,GPW: Przemysł tworzyw sztucznych
+132,ES-SYSTEM,GPW: Usługi inne
+133,EST,GPW: Energetyka
+134,EUROTEL,GPW: Handel detaliczny
+135,EUROPEJSKIE-CENTRUM-ODSZKODOWAN,GPW: Finanse inne
+136,EUROCASH,GPW: Handel detaliczny
+137,EVEREST-INVESTMENTS,GPW: Finanse inne
+138,FEERUM,GPW: Przemysł metalowy
+139,FERRUM,GPW: Przemysł metalowy
+140,FAST-FINANCE,GPW: Finanse inne
+141,FENGHUA-SOLETECH,GPW: Przemysł tworzyw sztucznych
+142,FAMUR,GPW: Przemysł elektromaszynowy
+143,FMG,GPW: Finanse inne
+144,FON,GPW: Finanse inne
+145,FERRO,GPW: Przemysł materiałów budowlanych
+146,FASING,GPW: Przemysł metalowy
+147,FORTE,GPW: Przemysł drzewny
+148,GBK,GPW: Finanse inne
+149,GROCLIN,GPW: Przemysł motoryzacyjny
+150,IMMOBILE,GPW: Konglomeraty
+151,GLOBAL-COSMED,GPW: Przemysł farmaceutyczny
+152,GETIN-NOBLE-BANK,GPW: Banki
+153,GOBARTO,GPW: Przemysł spożywczy
+154,GPR,GPW: Deweloperzy
+155,GPW,GPW: Rynek kapitałowy
+156,GINO-ROSSI,GPW: Handel detaliczny
+157,GRODNO,GPW: Handel hurtowy
+158,GTC,GPW: Deweloperzy
+159,GETIN-HOLDING,GPW: Banki
+160,HYDROTOR,GPW: Przemysł elektromaszynowy
+161,HELIO,GPW: Przemysł spożywczy
+162,HOLLYWOOD,GPW: Usługi inne
+163,HARPER-HYGIENICS,GPW: Przemysł farmaceutyczny
+164,HERKULES,GPW: Budownictwo
+165,HUBSTYLE,GPW: Media
+166,I2D,GPW: Deweloperzy
+167,IALBGR,GPW: Usługi inne
+168,IBSM,GPW: Deweloperzy
+169,IDEA-BANK,GPW: Banki
+170,IDEON,GPW: Energetyka
+171,INDYGOTECH-MINERALS,GPW: Finanse inne
+172,IDM,GPW: Rynek kapitałowy
+173,INDATA-SOFTWARE,GPW: Informatyka
+174,IFC,GPW: Finanse inne
+175,IFI,GPW: Informatyka
+176,IFR,GPW: Finanse inne
+177,IIA,GPW: Deweloperzy
+178,INDUSTRIAL-MILK-COMPANY,GPW: Przemysł spożywczy
+179,IMPERA,GPW: Finanse inne
+180,IMS,GPW: Usługi inne
+181,INC,GPW: Finanse inne
+182,INDYKPOL,GPW: Przemysł spożywczy
+183,INTERFERIE,GPW: Hotele i restauracje
+184,ING-BANK-SLASKI,GPW: Banki
+185,INSTAL-KRAKOW,GPW: Budownictwo
+186,INTROL,GPW: Przemysł elektromaszynowy
+187,INPRO,GPW: Deweloperzy
+188,INVISTA,GPW: Finanse inne
+189,IPOPEMA,GPW: Rynek kapitałowy
+190,INTERNATIONAL-PERSONAL-FINANCE-PLC,GPW: Finanse inne
+191,IMPEL,GPW: Usługi inne
+192,INTERSPPL,GPW: Handel detaliczny
+193,IPX,GPW: Przemysł metalowy
+194,IQ-PARTNERS,GPW: Finanse inne
+195,INTER-RAO-LIETUVA,GPW: Energetyka
+196,INTERBUD-LUBLIN,GPW: Budownictwo
+197,ITM,GPW: Handel detaliczny
+198,IZOBLOK,GPW: Przemysł tworzyw sztucznych
+199,IZOLACJA-JAROCIN,GPW: Przemysł materiałów budowlanych
+200,IZOSTAL,GPW: Przemysł metalowy
+201,JHM-DEVELOPMENT,GPW: Deweloperzy
+202,JJ-AUTO,GPW: Przemysł motoryzacyjny
+203,JSW-JASTRZEBSKA-SPOLKA-WEGLOWA,GPW: Przemysł surowcowy
+204,JW-CONSTRUCTION,GPW: Deweloperzy
+205,JWW-INVEST,GPW: Przemysł elektromaszynowy
+206,K2-INTERNET,GPW: Media
+207,HENRYK-KANIA,GPW: Przemysł spożywczy
+208,KBD,GPW: Przemysł materiałów budowlanych
+209,KRAKCHEMIA,GPW: Przemysł tworzyw sztucznych
+210,KCI,GPW: Media
+211,KDM-SHIPPING-PUBLIC-LIMITED,GPW: Usługi inne
+212,KERNEL,GPW: Przemysł spożywczy
+213,KGHM,GPW: Przemysł surowcowy
+214,KGL,GPW: Przemysł tworzyw sztucznych
+215,KOGENERACJA,GPW: Energetyka
+216,KOMPAP,GPW: Usługi inne
+217,KOMPUTRONIK,GPW: Handel detaliczny
+218,KPD,GPW: Przemysł drzewny
+219,KINO-POLSKA-TV,GPW: Media
+220,KRYNICKI-RECYKLING,GPW: Przemysł inne
+221,KREDYT-INKASO,GPW: Finanse inne
+222,KRKA,GPW: Przemysł farmaceutyczny
+223,KRUK,GPW: Finanse inne
+224,KSG-AGRO,GPW: Przemysł spożywczy
+225,KONSORCJUM-STALI,GPW: Handel hurtowy
+226,KRUSZWICA,GPW: Przemysł spożywczy
+227,KETY,GPW: Przemysł metalowy
+228,KVT,GPW: Przemysł spożywczy
+229,KREZUS,GPW: Finanse inne
+230,LABO-PRINT,GPW: Usługi inne
+231,LIBET,GPW: Przemysł materiałów budowlanych
+232,LUBAWA,GPW: Przemysł lekki
+233,LC-CORP,GPW: Deweloperzy
+234,LENA-LIGHTING,GPW: Przemysł elektromaszynowy
+235,LKD,GPW: Deweloperzy
+236,LPP,GPW: Handel detaliczny
+237,LARK-PL,GPW: Informatyka
+238,CAM-MEDIA,GPW: Usługi inne
+239,LSI-SOFTWARE,GPW: Informatyka
+240,LOTOS,GPW: Przemysł paliwowy
+241,LENTEX,GPW: Przemysł materiałów budowlanych
+242,LIVECHAT,GPW: Informatyka
+243,BOGDANKA,GPW: Przemysł surowcowy
+244,MABION,GPW: Przemysł farmaceutyczny
+245,MAKARONY-POLSKIE,GPW: Przemysł spożywczy
+246,MBANK,GPW: Banki
+247,MBR,GPW: Przemysł inne
+248,MBW,GPW: Przemysł spożywczy
+249,MCI,GPW: Finanse inne
+250,MEDIACAP,GPW: Media
+251,MERCOR,GPW: Przemysł materiałów budowlanych
+252,MEDICALGORITHMICS,GPW: Informatyka
+253,MDI,GPW: Budownictwo
+254,MEGARON,GPW: Przemysł materiałów budowlanych
+255,MEX-POLSKA,GPW: Hotele i restauracje
+256,MFO,GPW: Przemysł materiałów budowlanych
+257,MGT,GPW: Przemysł metalowy
+258,BANK-MILLENNIUM,GPW: Banki
+259,MIRACULUM,GPW: Przemysł farmaceutyczny
+260,MLP-GROUP,GPW: Deweloperzy
+261,MILKILAND,GPW: Przemysł spożywczy
+262,MLS,GPW: Energetyka
+263,MENNICA-POLSKA,GPW: Przemysł metalowy
+264,MOJ,GPW: Przemysł elektromaszynowy
+265,MOL-MAGYAR-OLAJ,GPW: Przemysł paliwowy
+266,MONNARI-TRADE,GPW: Handel detaliczny
+267,MPH,GPW: Przemysł farmaceutyczny
+268,MIRBUD,GPW: Budownictwo
+269,MERCATOR,GPW: Przemysł chemiczny
+270,MOSTOSTAL-PLOCK,GPW: Budownictwo
+271,MOSTOSTAL-WARSZAWA,GPW: Budownictwo
+272,MOSTOSTAL-ZABRZE,GPW: Budownictwo
+273,MEDIATEL,GPW: Telekomunikacja
+274,MVP,GPW: Deweloperzy
+275,MW-TRADE,GPW: Finanse inne
+276,MXC,GPW: Telekomunikacja
+277,MUZA,GPW: Media
+278,MZN,GPW: Media
+279,NCT,GPW: Handel hurtowy
+280,NETMEDIA,GPW: Usługi inne
+281,NETIA,GPW: Telekomunikacja
+282,NEUCA,GPW: Handel hurtowy
+283,NNG,GPW: Usługi inne
+284,NTT,GPW: Informatyka
+285,NTU,GPW: Hotele i restauracje
+286,PANOVA,GPW: Budownictwo
+287,NOVITA,GPW: Przemysł lekki
+288,NEWAG,GPW: Przemysł elektromaszynowy
+289,NWR-NEW-WORLD-RESOURCES,GPW: Przemysł surowcowy
+290,OAT,GPW: Przemysł farmaceutyczny
+291,ORZEL-BIALY,GPW: Przemysł metalowy
+292,ODLEWNIE-POLSKIE,GPW: Przemysł metalowy
+293,OEX,GPW: Usługi inne
+294,OPEN-FINANCE,GPW: Finanse inne
+295,ORCO-PROPERTY,GPW: Deweloperzy
+296,ORANGE,GPW: Telekomunikacja
+297,OPTEAM,GPW: Informatyka
+298,OPONEO-PL,GPW: Handel detaliczny
+299,ORBIS,GPW: Hotele i restauracje
+300,ORION-INVESTMENT,GPW: Deweloperzy
+301,OTMUCHOW,GPW: Przemysł spożywczy
+302,OT-LOGISTICS,GPW: Usługi inne
+303,OVOSTAR,GPW: Przemysł spożywczy
+304,PATENTUS,GPW: Przemysł elektromaszynowy
+305,PBS-FINANSE,GPW: Finanse inne
+306,PBG,GPW: Budownictwo
+307,PEKABEX,GPW: Przemysł materiałów budowlanych
+308,POLICE,GPW: Przemysł chemiczny
+309,PC-GUARD,GPW: Informatyka
+310,PRIME-CAR-MANAGEMENT,GPW: Finanse inne
+311,ROKITA,GPW: Przemysł chemiczny
+312,PCC-EXOL,GPW: Przemysł chemiczny
+313,PRAIRIE-MINING-LIMITED,GPW: Przemysł surowcowy
+314,PEM,GPW: Finanse inne
+315,PEKAO,GPW: Banki
+316,POLENERGIA,GPW: Energetyka
+317,PEIXIN,GPW: Przemysł elektromaszynowy
+318,PFLEIDERER-GRAJEWO,GPW: Przemysł drzewny
+319,PGE,GPW: Energetyka
+320,POINT-GROUP,GPW: Media
+321,PGNIG,GPW: Przemysł paliwowy
+322,POLSKA-GRUPA-ODLEWNICZA,GPW: Przemysł metalowy
+323,POLSKI-HOLDING-NIERUCHOMOSCI,GPW: Deweloperzy
+324,PLATYNOWE-INWESTYCJE,GPW: Usługi inne
+325,PROJPRZEM,GPW: Budownictwo
+326,PKN-ORLEN,GPW: Przemysł paliwowy
+327,PKO,GPW: Banki
+328,PKPCARGO,GPW: Usługi inne
+329,PLAYWAY,GPW: Informatyka
+330,PLAST-BOX,GPW: Przemysł tworzyw sztucznych
+331,PLY,GPW: Telekomunikacja
+332,PLAZACNTR,GPW: Deweloperzy
+333,PRIMA-MODA,GPW: Handel detaliczny
+334,PEMUG,GPW: Budownictwo
+335,PAMAPOL,GPW: Przemysł spożywczy
+336,POLNORD,GPW: Deweloperzy
+337,POZBUD,GPW: Przemysł materiałów budowlanych
+338,PEPEES,GPW: Przemysł spożywczy
+339,PROCAD,GPW: Informatyka
+340,PRAGMA-FAKTORING,GPW: Finanse inne
+341,PRAGMA-INKASO,GPW: Finanse inne
+342,PROCHEM,GPW: Budownictwo
+343,PROTEKTOR,GPW: Przemysł lekki
+344,PGS-SOFTWARE,GPW: Informatyka
+345,PRIMETECH,GPW: Przemysł elektromaszynowy
+346,ZPUE,GPW: Przemysł elektromaszynowy
+347,POLWAX,GPW: Przemysł chemiczny
+348,POLIMEX,GPW: Budownictwo
+349,PZU,GPW: Ubezpieczenia
+350,QUMAK,GPW: Informatyka
+351,QUANTUM-SOFTWARE,GPW: Informatyka
+352,QUERCUS,GPW: Rynek kapitałowy
+353,R22,GPW: Informatyka
+354,RAFAMET,GPW: Przemysł elektromaszynowy
+355,RUBICON-PARTNERS,GPW: Finanse inne
+356,RAINBOW-TOURS,GPW: Hotele i restauracje
+357,RADPOL,GPW: Przemysł tworzyw sztucznych
+358,REDAN,GPW: Handel detaliczny
+359,REGNON,GPW: Usługi inne
+360,RES,GPW: Budownictwo
+361,RAFAKO,GPW: Przemysł elektromaszynowy
+362,REINHOLD,GPW: Deweloperzy
+363,RELPOL,GPW: Przemysł elektromaszynowy
+364,REMAK,GPW: Przemysł elektromaszynowy
+365,RNC,GPW: Rynek kapitałowy
+366,RANK-PROGRESS,GPW: Deweloperzy
+367,RONSON,GPW: Deweloperzy
+368,ROPCZYCE,GPW: Przemysł materiałów budowlanych
+369,REDWOOD-HOLDING,GPW: Przemysł metalowy
+370,RAWLPLUG,GPW: Przemysł metalowy
+371,SANTANDER,GPW: Banki
+372,SARE,GPW: Informatyka
+373,SCO-PAK,GPW: Usługi inne
+374,SEKO,GPW: Przemysł spożywczy
+375,SELENA-FM,GPW: Przemysł materiałów budowlanych
+376,SEN,GPW: Przemysł paliwowy
+377,SESCOM,GPW: Usługi inne
+378,SETANTA-FINANCE,GPW: Finanse inne
+379,AS-SILVANO-FASHION,GPW: Handel detaliczny
+380,SFINKS,GPW: Hotele i restauracje
+381,SYGNITY,GPW: Informatyka
+382,SADOVAYA,GPW: Przemysł surowcowy
+383,SOHO-DEVELOPMENT,GPW: Deweloperzy
+384,STARHEDGE,GPW: Finanse inne
+385,SNIEZKA,GPW: Przemysł materiałów budowlanych
+386,SKARBIEC-HOLDING,GPW: Rynek kapitałowy
+387,SKYLINE-INVESTMENT,GPW: Finanse inne
+388,SKOTAN,GPW: Przemysł lekki
+389,SELVITA,GPW: Przemysł farmaceutyczny
+390,SLZ,GPW: Handel detaliczny
+391,SIMPLE,GPW: Informatyka
+392,STOMIL-SANOK,GPW: Przemysł motoryzacyjny
+393,SYNEKTIK,GPW: Przemysł farmaceutyczny
+394,SANWIL-HOLDING,GPW: Przemysł lekki
+395,SUNEX,GPW: Przemysł elektromaszynowy
+396,SOLAR-COMPANY,GPW: Handel detaliczny
+397,SONEL,GPW: Przemysł elektromaszynowy
+398,SOPHARMA,GPW: Przemysł farmaceutyczny
+399,SPL,GPW: Banki
+400,STALPROFIL,GPW: Handel hurtowy
+401,STELMET,GPW: Przemysł drzewny
+402,STALPRODUKT,GPW: Przemysł metalowy
+403,STALEXPORT-AUTOSTRADY,GPW: Usługi inne
+404,SUWARY,GPW: Przemysł tworzyw sztucznych
+405,SVRS,GPW: Informatyka
+406,SWISSMED-CENTRUM-ZDROWIA,GPW: Usługi inne
+407,SECO-WARWICK,GPW: Przemysł elektromaszynowy
+408,TARCZYNSKI,GPW: Przemysł spożywczy
+409,TBL,GPW: Informatyka
+410,TEN,GPW: Informatyka
+411,TIM,GPW: Handel hurtowy
+412,TALEX,GPW: Informatyka
+413,TATRY-MOUNTAIN-RESORTS,GPW: Hotele i restauracje
+414,TNX,GPW: Ubezpieczenia
+415,TOYA,GPW: Handel hurtowy
+416,TORPOL,GPW: Budownictwo
+417,TOWERINV,GPW: Deweloperzy
+418,TAURON,GPW: Energetyka
+419,TRITON-DEVELOPMENT,GPW: Deweloperzy
+420,TRAKCJA,GPW: Budownictwo
+421,TRANS-POLONIA,GPW: Usługi inne
+422,TERMO-REX,GPW: Przemysł metalowy
+423,TESGAS,GPW: Budownictwo
+424,TXM,GPW: Handel detaliczny
+425,UNIMA-2000,GPW: Informatyka
+426,UNICREDIT,GPW: Banki
+427,ULMA-CONSTRUCCION,GPW: Przemysł materiałów budowlanych
+428,UNIBEP,GPW: Budownictwo
+429,UNIMOT-GAZ,GPW: Handel hurtowy
+430,URSUS,GPW: Przemysł elektromaszynowy
+431,VIGO-SYSTEM,GPW: Przemysł elektromaszynowy
+432,VINDEXUS,GPW: Finanse inne
+433,VOTUM,GPW: Finanse inne
+434,VOXEL,GPW: Usługi inne
+435,VISTULA,GPW: Handel detaliczny
+436,VANTAGE-DEVELOPMENT,GPW: Deweloperzy
+437,VENTURE-INCUBATOR,GPW: Finanse inne
+438,VISTAL,GPW: Budownictwo
+439,VIVID-GAMES,GPW: Informatyka
+440,WASKO,GPW: Informatyka
+441,WADEX,GPW: Przemysł metalowy
+442,WIKANA,GPW: Deweloperzy
+443,WIS,GPW: Finanse inne
+444,WILBO,GPW: Przemysł spożywczy
+445,WIELTON,GPW: Przemysł motoryzacyjny
+446,WOJAS,GPW: Handel detaliczny
+447,WIRTUALNA-POLSKA,GPW: Media
+448,WORK-SERVICE,GPW: Usługi inne
+449,WTN,GPW: Handel detaliczny
+450,WAWEL,GPW: Przemysł spożywczy
+451,WARIMPEX,GPW: Deweloperzy
+452,XTB,GPW: Rynek kapitałowy
+453,XTP,GPW: Informatyka
+454,YOLO,GPW: Finanse inne
+455,ZAKLADY-AZOTOWE-PULAWY,GPW: Przemysł chemiczny
+456,ZEPAK,GPW: Energetyka
+457,ZAMET-INDUSTRY,GPW: Przemysł elektromaszynowy
+458,ZREMB-CHOJNICE,GPW: Przemysł elektromaszynowy
+459,ZASTAL,GPW: Usługi inne
+460,ZUE,GPW: Budownictwo
+461,STAPORKOW,GPW: Przemysł metalowy
+462,ZYWIEC,GPW: Przemysł spożywczy
+463,01CYBERATON,NewConnect: Handel
+464,2C-PARTNERS,NewConnect: Nieruchomości
+465,2INTELLECT-COM,NewConnect: Informatyka
+466,4MOBILITY,NewConnect: Usługi inne
+467,4MS,NewConnect: Handel
+468,5TH-AVENUE-HOLDING,NewConnect: Nieruchomości
+469,7FT,NewConnect: Handel
+470,7LV,NewConnect: Informatyka
+471,ABAK,NewConnect: Usługi finansowe
+472,ACARTUS,NewConnect: Usługi finansowe
+473,ACK,NewConnect: Budownictwo
+474,ACR,NewConnect: Informatyka
+475,AERFINANCE-PLC,NewConnect: Inwestycje
+476,AKCEPT-FINANCE,NewConnect: Usługi finansowe
+477,AFORTI-HOLDING,NewConnect: Usługi finansowe
+478,AGROLIGA-GROUP,NewConnect: Usługi inne
+479,AGROMEP,NewConnect: Handel
+480,ABS-INVESTMENT,NewConnect: Usługi finansowe
+481,AITON-CALDWELL,NewConnect: Telekomunikacja
+482,ALDA,NewConnect: Technologie
+483,ALEJASAMOCHODOWA-PL,NewConnect: e-handel
+484,ALUMAST,NewConnect: Budownictwo
+485,ANALIZY-ONLINE,NewConnect: Usługi inne
+486,APANET,NewConnect: Technologie
+487,APC,NewConnect: Inwestycje
+488,APS,NewConnect: Technologie
+489,AQUA,NewConnect: Budownictwo
+490,AQT,NewConnect: Recykling
+491,AQUA-BIELSKO-BIALA,NewConnect: Usługi inne
+492,ARAMUS,NewConnect: Nieruchomości
+493,ARE,NewConnect: Technologie
+494,AGENCJA-ROZWOJU-INNOWACJI,NewConnect: Usługi inne
+495,ARK,NewConnect: Usługi inne
+496,ARRINERA,NewConnect: Usługi inne
+497,APIS,NewConnect: Budownictwo
+498,AUTO-SPA,NewConnect: Usługi inne
+499,ASTRO,NewConnect: Media
+500,ASSETUS,NewConnect: Usługi inne
+501,ATC-CARGO,NewConnect: Usługi inne
+502,ATON-HT,NewConnect: Recykling
+503,AUX,NewConnect: Usługi finansowe
+504,ADVERTIGO,NewConnect: Media
+505,AZTEC-INTERNATIONAL,NewConnect: Budownictwo
+506,B24,NewConnect: Informatyka
+507,BBA,NewConnect: Usługi inne
+508,BROAD-GATE,NewConnect: Handel
+509,BIOMASS-ENERGY-PROJECT,NewConnect: Eco-energia
+510,BIOERG,NewConnect: Recykling
+511,BIOFACTORY,NewConnect: Technologie
+512,BIOGENED,NewConnect: Ochrona zdrowia
+513,BINARY-HELIX,NewConnect: Technologie
+514,BIO-PLANET,NewConnect: Handel
+515,BIT,NewConnect: e-handel
+516,BLOOBER-TEAM,NewConnect: Informatyka
+517,BLIRT,NewConnect: Ochrona zdrowia
+518,BALTICON,NewConnect: Usługi inne
+519,BLUMERANG-INVESTORS,NewConnect: Inwestycje
+520,BIOMAXIMA,NewConnect: Ochrona zdrowia
+521,BOA,NewConnect: Usługi finansowe
+522,BLACK-PEARL-CAPITAL,NewConnect: Inwestycje
+523,BLACK-POINT,NewConnect: Recykling
+524,BPX,NewConnect: Nieruchomości
+525,BROWAR-GONTYNIEC,NewConnect: Handel
+526,BORUTA,NewConnect: Technologie
+527,BRAS,NewConnect: Nieruchomości
+528,BLUE-TAX-GROUP,NewConnect: Usługi finansowe
+529,BTK,NewConnect: Informatyka
+530,BTX,NewConnect: Budownictwo
+531,BVT,NewConnect: Usługi finansowe
+532,CAM,NewConnect: Usługi inne
+533,CYFROWE-CENTRUM-SERWISOWE,NewConnect: Handel
+534,CALL-CENTER-TOOLS,NewConnect: Usługi inne
+535,CFG,NewConnect: Informatyka
+536,CFS,NewConnect: Usługi finansowe
+537,CHP,NewConnect: Informatyka
+538,COLUMBUS-CAPITAL,NewConnect: Inwestycje
+539,CLOUD-TECHNOLOGIES,NewConnect: Informatyka
+540,CALESCO,NewConnect: Usługi inne
+541,COMECO,NewConnect: Handel
+542,COMPRESS,NewConnect: Media
+543,CORELENS,NewConnect: Ochrona zdrowia
+544,CRJ,NewConnect: Informatyka
+545,CEREAL-PLANET,NewConnect: Usługi inne
+546,COPERNICUS-SECURITIES,NewConnect: Inwestycje
+547,CASPAR-ASSET-MANAGEMENT,NewConnect: Inwestycje
+548,CSY,NewConnect: Technologie
+549,CTE,NewConnect: Recykling
+550,CENTURION-FINANCE,NewConnect: Usługi finansowe
+551,CWA,NewConnect: Usługi inne
+552,CWP,NewConnect: Usługi inne
+553,CZK,NewConnect: Handel
+554,DENT-A-MEDICAL,NewConnect: Ochrona zdrowia
+555,DCD,NewConnect: Usługi inne
+556,DEVORAN,NewConnect: Handel
+557,DIGITAL-AVENUE,NewConnect: Media
+558,DIN,NewConnect: Wypoczynek
+559,DEKTRA,NewConnect: Handel
+560,DOM-LEKARSKI,NewConnect: Ochrona zdrowia
+561,DANKS,NewConnect: Usługi finansowe
+562,DOK,NewConnect: Informatyka
+563,DRF,NewConnect: Usługi finansowe
+564,EBC-SOLICITORS,NewConnect: Usługi finansowe
+565,EKOBOX,NewConnect: Budownictwo
+566,EC2,NewConnect: Informatyka
+567,ECA,NewConnect: Usługi finansowe
+568,ECC,NewConnect: Informatyka
+569,EUROSNACK,NewConnect: Handel
+570,EASYCALL-PL,NewConnect: Telekomunikacja
+571,ELECTROCERAMICS,NewConnect: Technologie
+572,EDISON-SPOLKA,NewConnect: Informatyka
+573,EUROPEJSKI-FUNDUSZ-ENERGII,NewConnect: Informatyka
+574,EFIX,NewConnect: Inwestycje
+575,EKOPOL,NewConnect: Technologie
+576,E-KIOSK,NewConnect: e-handel
+577,ELEKTROMONT,NewConnect: Usługi inne
+578,ELQ,NewConnect: Usługi inne
+579,EMMERSON,NewConnect: Nieruchomości
+580,E-MUZYKA,NewConnect: Media
+581,EO-NETWORKS,NewConnect: Informatyka
+582,EPR,NewConnect: Budownictwo
+583,ERNE,NewConnect: Inwestycje
+584,EUROSYSTEM,NewConnect: Telekomunikacja
+585,EASTSIDECAPITAL,NewConnect: Inwestycje
+586,ESKIMOS,NewConnect: Handel
+587,EURO-TAX-PL,NewConnect: Usługi finansowe
+588,EXAMOBILE,NewConnect: Informatyka
+589,EXCELLENCE,NewConnect: Handel
+590,THE-FARM-51-GROUP,NewConnect: Informatyka
+591,FACHOWCY-PL-VENTURES,NewConnect: Media
+592,FDG,NewConnect: Informatyka
+593,FUNDUSZ-HIPOTECZNY-DOM,NewConnect: Usługi finansowe
+594,FABRYKA-KONSTRUKCJI-DREWNIANYCH,NewConnect: Budownictwo
+595,FLUID,NewConnect: Eco-energia
+596,FOREVER-ENTERTAINMENT,NewConnect: Informatyka
+597,FORPOSTA,NewConnect: Usługi inne
+598,FTH,NewConnect: Usługi finansowe
+599,FTI,NewConnect: Usługi finansowe
+600,FITEN,NewConnect: Handel
+601,GALVO,NewConnect: Technologie
+602,GRUPAEMM,NewConnect: Nieruchomości
+603,GENOMED,NewConnect: Ochrona zdrowia
+604,GKS-GIEKSA-KATOWICE,NewConnect: Wypoczynek
+605,GLG-PHARMA,NewConnect: Ochrona zdrowia
+606,GME,NewConnect: Media
+607,G-ENERGY,NewConnect: Eco-energia
+608,GOLAB,NewConnect: Handel
+609,GOV,NewConnect: Technologie
+610,GPPI,NewConnect: Usługi finansowe
+611,GRUPA-RECYKL,NewConnect: Recykling
+612,GRE,NewConnect: Eco-energia
+613,GREMPCO,NewConnect: Inwestycje
+614,GO-TFI,NewConnect: Inwestycje
+615,GEOTREKK,NewConnect: Media
+616,GEO-TERM,NewConnect: Eco-energia
+617,GTS,NewConnect: Recykling
+618,GRUPA-TRINITY,NewConnect: Usługi finansowe
+619,GWARANT,NewConnect: Usługi inne
+620,HBG,NewConnect: Informatyka
+621,HEFAL-SERWIS,NewConnect: Budownictwo
+622,HM-INWEST,NewConnect: Nieruchomości
+623,HORTICO,NewConnect: Handel
+624,HOTBLOK,NewConnect: Budownictwo
+625,HYDRAPRES,NewConnect: Technologie
+626,GRUPA-HRC,NewConnect: Usługi inne
+627,HRL,NewConnect: Usługi inne
+628,HURTIMEX,NewConnect: Handel
+629,IBC-POLSKA,NewConnect: Usługi inne
+630,INCANA,NewConnect: Budownictwo
+631,INTERCAPITAL-PROPERTY-DEVELOPMENT,NewConnect: Nieruchomości
+632,ICE,NewConnect: Ochrona zdrowia
+633,ICP-GROUP,NewConnect: Usługi inne
+634,IDH,NewConnect: Technologie
+635,IFUN4ALL,NewConnect: Informatyka
+636,INFRA,NewConnect: Informatyka
+637,INVESTMENT-FUND-MANAGERS,NewConnect: Usługi finansowe
+638,INNO-GENE,NewConnect: Inwestycje
+639,IGORIA-TRADE,NewConnect: Usługi finansowe
+640,IMAGIS,NewConnect: Handel
+641,INBOOK,NewConnect: e-handel
+642,INVENTIONMED,NewConnect: Technologie
+643,INS,NewConnect: Usługi finansowe
+644,NTERNITY-SPOLKA,NewConnect: Budownictwo
+645,INWESTYCJE-PL,NewConnect: Media
+646,IPO-DORADZTWO-STRATEGICZNE,NewConnect: Usługi finansowe
+647,ISG,NewConnect: Usługi inne
+648,INFOSCAN,NewConnect: Ochrona zdrowia
+649,INTELIWISE,NewConnect: Informatyka
+650,INTERNET-UNION,NewConnect: Telekomunikacja
+651,INVESTEKO,NewConnect: Eco-energia
+652,JJB,NewConnect: Informatyka
+653,JR-INVEST,NewConnect: Nieruchomości
+654,JWA,NewConnect: Informatyka
+655,KBJ,NewConnect: Informatyka
+656,KOFAMA,NewConnect: Technologie
+657,KLEBA-INVEST,NewConnect: Nieruchomości
+658,KK-HERBAL-POLAND,NewConnect: Handel
+659,KLON,NewConnect: Budownictwo
+660,KANCELARIA-MEDIUS,NewConnect: Usługi finansowe
+661,KORBANK,NewConnect: Telekomunikacja
+662,KUPIEC,NewConnect: Usługi inne
+663,KPI,NewConnect: Usługi finansowe
+664,LANGLOO-COM-SPOLKA,NewConnect: Usługi inne
+665,LOKATY-BUDOWLANE,NewConnect: Nieruchomości
+666,LETUS-CAPITAL,NewConnect: Usługi finansowe
+667,LOGINTRAD,NewConnect: Informatyka
+668,LKS,NewConnect: Handel
+669,LAUREN-PESO,NewConnect: Usługi inne
+670,LSH,NewConnect: Technologie
+671,LUG,NewConnect: Budownictwo
+672,LUKARDI,NewConnect: Informatyka
+673,M4B,NewConnect: Informatyka
+674,MADKOM,NewConnect: Informatyka
+675,MARSOFT,NewConnect: Telekomunikacja
+676,MAXIMUS,NewConnect: Handel
+677,MBF-GROUP,NewConnect: Informatyka
+678,MODERNCOM,NewConnect: Usługi inne
+679,MEDAPP,NewConnect: Media
+680,MEDIAN-POLSKA,NewConnect: Handel
+681,MEDCAMP,NewConnect: Nieruchomości
+682,MERIT-INVEST,NewConnect: Usługi finansowe
+683,MERA,NewConnect: Budownictwo
+684,M-FOOD,NewConnect: Handel
+685,MEGA-SONIC,NewConnect: Technologie
+686,MGC,NewConnect: Ochrona zdrowia
+687,MID,NewConnect: Usługi finansowe
+688,MAKOLAB,NewConnect: Informatyka
+689,MILKPOL,NewConnect: Handel
+690,MALKOWSKI-MARTECH,NewConnect: Budownictwo
+691,MM-CONFERENCES,NewConnect: Usługi inne
+692,MILESTONE,NewConnect: Ochrona zdrowia
+693,MOBIMEDIA,NewConnect: Media
+694,MINERAL-MIDRANGE,NewConnect: Informatyka
+695,MENNICA-SKARBOWA,NewConnect: e-handel
+696,MINOX,NewConnect: Handel
+697,MODE,NewConnect: Technologie
+698,MOV,NewConnect: Informatyka
+699,MPAY,NewConnect: Usługi finansowe
+700,MRD,NewConnect: Wypoczynek
+701,MRG,NewConnect: Media
+702,MR-HAMBURGER,NewConnect: Wypoczynek
+703,MARKA,NewConnect: Usługi finansowe
+704,METROPOLIS,NewConnect: Ochrona zdrowia
+705,MOTORICUS,NewConnect: Handel
+706,MTS,NewConnect: Usługi inne
+707,MAXIPIZZA,NewConnect: Wypoczynek
+708,NOWOCZESNA-FIRMA,NewConnect: Media
+709,NOVINA,NewConnect: Inwestycje
+710,NST,NewConnect: Ochrona zdrowia
+711,NOTORIA-SERWIS,NewConnect: Usługi inne
+712,NETWISE,NewConnect: Informatyka
+713,NOVAVIS,NewConnect: Eco-energia
+714,NWAI-DOM-MAKLERSKI,NewConnect: Inwestycje
+715,NXB,NewConnect: Usługi inne
+716,OML,NewConnect: Ochrona zdrowia
+717,ONICO,NewConnect: Handel
+718,OPTIZEN-LABS,NewConnect: Media
+719,ORGANIC-FARMA-ZDROWIA,NewConnect: Handel
+720,ORZEL,NewConnect: Recykling
+721,ORPHEE,NewConnect: Ochrona zdrowia
+722,OUTDOORZY,NewConnect: Handel
+723,PRESENT24,NewConnect: e-handel
+724,PAS,NewConnect: Informatyka
+725,PREFABET,NewConnect: Budownictwo
+726,PBT,NewConnect: Informatyka
+727,PHOTON,NewConnect: Eco-energia
+728,PATENT-FUND,NewConnect: Wypoczynek
+729,PERMA-FIX-MEDICAL,NewConnect: Usługi finansowe
+730,PHIWIERZY,NewConnect: Usługi finansowe
+731,PHARMENA,NewConnect: Ochrona zdrowia
+732,PIG,NewConnect: Informatyka
+733,PIK,NewConnect: Handel
+734,PROPERTYF,NewConnect: Usługi inne
+735,PLG,NewConnect: Handel
+736,PLATIGE-IMAGE,NewConnect: Media
+737,POLMAN,NewConnect: Recykling
+738,POLMT,NewConnect: Handel
+739,PMF,NewConnect: Handel
+740,PRIME-MINERALS,NewConnect: Usługi finansowe
+741,PNT,NewConnect: Usługi inne
+742,PRO-LOG,NewConnect: Usługi inne
+743,PARTNER-NIERUCHOMOSCI,NewConnect: Nieruchomości
+744,APN-PROMISE,NewConnect: Handel
+745,PRYMUS,NewConnect: Handel
+746,PLASMA-SYSTEM,NewConnect: Technologie
+747,PRESTO,NewConnect: Recykling
+748,PTE,NewConnect: Usługi inne
+749,POLTRONIC,NewConnect: Handel
+750,PTWP,NewConnect: Media
+751,PUR,NewConnect: Ochrona zdrowia
+752,PYLON,NewConnect: Technologie
+753,QON,NewConnect: Informatyka
+754,QUART-DEVELOPMENT,NewConnect: Nieruchomości
+755,QUBICGMS,NewConnect: Informatyka
+756,ROBINSON-EUROPE,NewConnect: Handel
+757,ROCCA,NewConnect: Budownictwo
+758,RUCH-CHORZOW,NewConnect: Wypoczynek
+759,READ-GENE,NewConnect: Technologie
+760,REMEDIS,NewConnect: Usługi finansowe
+761,ROVITA-SPOLKA,NewConnect: Handel
+762,RSP,NewConnect: Eco-energia
+763,RSY,NewConnect: Technologie
+764,S4E,NewConnect: Technologie
+765,SOFTBLUE,NewConnect: Technologie
+766,SCP,NewConnect: Ochrona zdrowia
+767,STEM-CELLS-SPIN,NewConnect: Ochrona zdrowia
+768,SEVENET,NewConnect: Informatyka
+769,SFD,NewConnect: e-handel
+770,POLKAP,NewConnect: Handel
+771,SFERANET,NewConnect: Telekomunikacja
+772,SAKANA,NewConnect: Wypoczynek
+773,SLK,NewConnect: Nieruchomości
+774,SMS-KREDYT-HOLDING,NewConnect: Usługi finansowe
+775,SNG,NewConnect: Inwestycje
+776,SP1,NewConnect: Inwestycje
+777,SPARKVC,NewConnect: Media
+778,SURFLAND,NewConnect: Informatyka
+779,STANDREW,NewConnect: Technologie
+780,STOPKLATKA,NewConnect: Media
+781,STO,NewConnect: Handel
+782,SUMMA-LINGUAE,NewConnect: Usługi inne
+783,SUNTECH,NewConnect: Informatyka
+784,SYMBIO-POLSKA,NewConnect: Handel
+785,SZAR,NewConnect: Handel
+786,TERMO2PWR,NewConnect: Eco-energia
+787,TECHMADEX,NewConnect: Technologie
+788,THD,NewConnect: Informatyka
+789,TECHINVGR,NewConnect: Usługi finansowe
+790,TELGAM,NewConnect: Telekomunikacja
+791,TLH,NewConnect: Usługi finansowe
+792,TELESTO,NewConnect: Recykling
+793,TELESTRADA,NewConnect: Telekomunikacja
+794,TELIANI-VALLEY,NewConnect: Handel
+795,TERMOEXPERT,NewConnect: Budownictwo
+796,TELEMEDYCYNA,NewConnect: Ochrona zdrowia
+797,TAMEX,NewConnect: Budownictwo
+798,TAX-NET,NewConnect: Usługi finansowe
+799,ARTP-CAPITAL,NewConnect: Media
+800,UFC,NewConnect: Informatyka
+801,ULG,NewConnect: Informatyka
+802,UNITED,NewConnect: Usługi inne
+803,VAB,NewConnect: Usługi inne
+804,VAR,NewConnect: Informatyka
+805,VENTURE-CAPITAL-POLAND,NewConnect: Inwestycje
+806,VIDIS,NewConnect: Handel
+807,MPL-VERBUM,NewConnect: Usługi inne
+808,VIATRON,NewConnect: Usługi inne
+809,VIRTUAL-VISION,NewConnect: Media
+810,VAKOMTEK,NewConnect: Handel
+811,VOI,NewConnect: Informatyka
+812,VERBICOM,NewConnect: Technologie
+813,VTE,NewConnect: Usługi inne
+814,WDB-BROKERZY-UBEZPIECZENIOWI,NewConnect: Usługi finansowe
+815,WERTH-HOLZ,NewConnect: Budownictwo
+816,WODKAN,NewConnect: Usługi inne
+817,WEST-REAL-ESTATE,NewConnect: Nieruchomości
+818,WIERZYCIEL,NewConnect: Usługi finansowe
+819,WTF,NewConnect: Nieruchomości
+820,XPLUS,NewConnect: Informatyka
+821,NEPTIS,NewConnect: Informatyka
